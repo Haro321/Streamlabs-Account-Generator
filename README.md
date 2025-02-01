@@ -1,6 +1,6 @@
 # StreamLabs Signup Bot
 
-A Python automation bot that signs up for a StreamLabs account by filling out the signup form and verifying the email address using a temporary email service. The bot uses a headless browser driver (powered by botasaurus_driveror a similar package) along with TempMail for email verification. It also supports the use of proxies and multithreading for concurrent signups.
+A Python automation bot that signs up for a StreamLabs account by filling out the signup form and verifying the email address using a temporary email service. The bot uses a headless browser driver along with TempMail for email verification. It also supports the use of proxies and multithreading for concurrent signups.
 
 ## Features
 
