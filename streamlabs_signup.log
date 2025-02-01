@@ -1,0 +1,702 @@
+2025-01-25 00:53:53,563 - INFO: Websocket connected
+2025-01-25 00:53:54,467 - INFO: Websocket connected
+2025-01-25 00:53:57,879 - INFO: Signup page opened successfully
+2025-01-25 00:53:58,331 - INFO: Email 'ninetta11638@wih1.awesome47.com' entered
+2025-01-25 00:53:58,769 - INFO: Password entered
+2025-01-25 00:54:00,304 - INFO: Checkboxes clicked
+2025-01-25 00:54:00,591 - INFO: Form submitted
+2025-01-25 00:54:05,794 - INFO: Found verification code: 97737607
+2025-01-25 00:54:06,524 - INFO: Email verification successful
+2025-01-25 00:54:06,582 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 00:55:04,888 - INFO: Websocket connected
+2025-01-25 00:55:05,086 - INFO: Websocket connected
+2025-01-25 00:55:07,744 - INFO: Signup page opened successfully
+2025-01-25 00:55:08,219 - INFO: Email 'rhianna38490@wih1.awesome47.com' entered
+2025-01-25 00:55:08,657 - INFO: Password entered
+2025-01-25 00:55:10,188 - INFO: Checkboxes clicked
+2025-01-25 00:55:10,465 - INFO: Form submitted
+2025-01-25 00:55:15,823 - INFO: Found verification code: 96926333
+2025-01-25 00:55:16,569 - INFO: Email verification successful
+2025-01-25 00:55:16,621 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:23:13,927 - INFO: Websocket connected
+2025-01-25 01:23:14,270 - INFO: Websocket connected
+2025-01-25 01:23:17,916 - INFO: Signup page opened successfully
+2025-01-25 01:23:20,298 - INFO: Email 'agamemnon77945@wih1.awesome47.com' entered
+2025-01-25 01:23:20,714 - INFO: Password entered
+2025-01-25 01:23:22,228 - INFO: Checkboxes clicked
+2025-01-25 01:23:22,526 - INFO: Form submitted
+2025-01-25 01:23:27,892 - INFO: Found verification code: 68404276
+2025-01-25 01:23:28,626 - INFO: Email verification successful
+2025-01-25 01:23:28,675 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:24:48,001 - INFO: Websocket connected
+2025-01-25 01:24:48,363 - INFO: Websocket connected
+2025-01-25 01:24:51,118 - INFO: Signup page opened successfully
+2025-01-25 01:24:52,258 - INFO: Email 'correna42892@wih1.awesome47.com' entered
+2025-01-25 01:24:52,699 - INFO: Password entered
+2025-01-25 01:24:54,231 - INFO: Checkboxes clicked
+2025-01-25 01:24:54,509 - INFO: Form submitted
+2025-01-25 01:24:59,702 - INFO: Found verification code: 94538030
+2025-01-25 01:24:59,703 - ERROR: Error during code submission: DriverBase.wait_for_element() got an unexpected keyword argument 'timeout'
+2025-01-25 01:25:59,196 - INFO: Websocket connected
+2025-01-25 01:25:59,885 - INFO: Websocket connected
+2025-01-25 01:26:03,713 - INFO: Signup page opened successfully
+2025-01-25 01:26:05,444 - INFO: Email 'robina74322@wih1.awesome47.com' entered
+2025-01-25 01:26:05,866 - INFO: Password entered
+2025-01-25 01:26:07,414 - INFO: Checkboxes clicked
+2025-01-25 01:26:07,694 - INFO: Form submitted
+2025-01-25 01:26:13,058 - INFO: Found verification code: 11400038
+2025-01-25 01:26:13,674 - ERROR: Error during code submission: 'Driver' object has no attribute 'execute_script'
+2025-01-25 01:26:56,129 - INFO: Websocket connected
+2025-01-25 01:26:57,185 - INFO: Websocket connected
+2025-01-25 01:27:01,520 - INFO: Signup page opened successfully
+2025-01-25 01:27:01,966 - INFO: Email 'joao16796@wih1.awesome47.com' entered
+2025-01-25 01:27:02,406 - INFO: Password entered
+2025-01-25 01:27:03,940 - INFO: Checkboxes clicked
+2025-01-25 01:27:04,212 - INFO: Form submitted
+2025-01-25 01:27:09,414 - INFO: Found verification code: 79391414
+2025-01-25 01:27:12,110 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:27:12,112 - INFO: Email verification attempted
+2025-01-25 01:27:12,166 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:32:27,577 - INFO: Websocket connected
+2025-01-25 01:32:28,586 - INFO: Websocket connected
+2025-01-25 01:32:32,020 - INFO: Signup page opened successfully
+2025-01-25 01:32:32,446 - INFO: Email 'acker25614@wih1.awesome47.com' entered
+2025-01-25 01:32:32,868 - INFO: Password entered
+2025-01-25 01:32:34,486 - INFO: Checkboxes clicked
+2025-01-25 01:32:34,774 - INFO: Form submitted
+2025-01-25 01:32:44,635 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:32:46,667 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:32:49,995 - INFO: Websocket connected
+2025-01-25 01:32:51,352 - INFO: Websocket connected
+2025-01-25 01:32:54,054 - INFO: Signup page opened successfully
+2025-01-25 01:32:54,524 - INFO: Email 'langsdon50007@wih1.awesome47.com' entered
+2025-01-25 01:32:54,930 - INFO: Password entered
+2025-01-25 01:32:56,464 - INFO: Checkboxes clicked
+2025-01-25 01:32:56,749 - INFO: Form submitted
+2025-01-25 01:33:01,955 - INFO: Found verification code: 61055772
+2025-01-25 01:33:04,679 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:33:04,679 - INFO: Email verification attempted
+2025-01-25 01:33:04,730 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:35:31,160 - INFO: Websocket connected
+2025-01-25 01:35:31,520 - INFO: Websocket connected
+2025-01-25 01:35:35,208 - INFO: Signup page opened successfully
+2025-01-25 01:35:35,719 - INFO: Email 'doralia92151@wih1.awesome47.com' entered
+2025-01-25 01:35:36,147 - INFO: Password entered
+2025-01-25 01:35:37,704 - INFO: Checkboxes clicked
+2025-01-25 01:35:37,980 - INFO: Form submitted
+2025-01-25 01:35:44,001 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:35:44,047 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:36:38,785 - INFO: Websocket connected
+2025-01-25 01:36:39,454 - INFO: Websocket connected
+2025-01-25 01:36:42,962 - INFO: Signup page opened successfully
+2025-01-25 01:36:43,430 - INFO: Email 'regine42450@wih1.awesome47.com' entered
+2025-01-25 01:36:43,864 - INFO: Password entered
+2025-01-25 01:36:45,395 - INFO: Checkboxes clicked
+2025-01-25 01:36:45,678 - INFO: Form submitted
+2025-01-25 01:36:50,872 - INFO: Found verification code: 82573950
+2025-01-25 01:36:53,654 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:36:53,654 - INFO: Email verification attempted
+2025-01-25 01:36:53,704 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:38:53,896 - INFO: Websocket connected
+2025-01-25 01:38:54,268 - INFO: Websocket connected
+2025-01-25 01:38:58,470 - INFO: Signup page opened successfully
+2025-01-25 01:38:58,947 - INFO: Email 'delphinia55976@wih1.awesome47.com' entered
+2025-01-25 01:38:59,393 - INFO: Password entered
+2025-01-25 01:39:00,937 - INFO: Checkboxes clicked
+2025-01-25 01:39:01,227 - INFO: Form submitted
+2025-01-25 01:39:05,139 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:40:28,089 - INFO: Websocket connected
+2025-01-25 01:40:29,724 - INFO: Websocket connected
+2025-01-25 01:40:32,562 - INFO: Signup page opened successfully
+2025-01-25 01:40:33,074 - INFO: Email 'talia80297@wih1.awesome47.com' entered
+2025-01-25 01:40:33,517 - INFO: Password entered
+2025-01-25 01:40:35,074 - INFO: Checkboxes clicked
+2025-01-25 01:40:35,345 - INFO: Form submitted
+2025-01-25 01:40:40,709 - INFO: Found verification code: 40444832
+2025-01-25 01:40:43,445 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:40:43,445 - INFO: Email verification attempted
+2025-01-25 01:40:43,494 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:42:23,141 - INFO: Websocket connected
+2025-01-25 01:42:23,142 - INFO: Websocket connected
+2025-01-25 01:42:23,143 - INFO: Websocket connected
+2025-01-25 01:42:23,188 - INFO: Websocket connected
+2025-01-25 01:42:23,480 - INFO: Websocket connected
+2025-01-25 01:42:29,283 - INFO: Websocket connected
+2025-01-25 01:42:30,112 - INFO: Websocket connected
+2025-01-25 01:42:30,550 - INFO: Websocket connected
+2025-01-25 01:42:31,597 - INFO: Websocket connected
+2025-01-25 01:42:31,656 - INFO: Websocket connected
+2025-01-25 01:42:36,953 - INFO: Signup page opened successfully
+2025-01-25 01:42:36,955 - INFO: Signup page opened successfully
+2025-01-25 01:42:37,080 - INFO: Signup page opened successfully
+2025-01-25 01:42:38,230 - INFO: Signup page opened successfully
+2025-01-25 01:42:38,230 - INFO: Signup page opened successfully
+2025-01-25 01:42:38,244 - INFO: Email 'sharyl54239@wih1.awesome47.com' entered
+2025-01-25 01:42:38,791 - INFO: Email 'kenn83102@wih1.awesome47.com' entered
+2025-01-25 01:42:39,004 - INFO: Email 'fulbert92802@wih1.awesome47.com' entered
+2025-01-25 01:42:40,097 - INFO: Password entered
+2025-01-25 01:42:40,238 - INFO: Password entered
+2025-01-25 01:42:40,494 - INFO: Password entered
+2025-01-25 01:42:41,351 - INFO: Email 'harri85930@wih1.awesome47.com' entered
+2025-01-25 01:42:41,353 - INFO: Email 'feodora6031@wih1.awesome47.com' entered
+2025-01-25 01:42:42,181 - INFO: Password entered
+2025-01-25 01:42:42,200 - INFO: Password entered
+2025-01-25 01:42:43,496 - INFO: Checkboxes clicked
+2025-01-25 01:42:43,498 - INFO: Checkboxes clicked
+2025-01-25 01:42:43,506 - INFO: Checkboxes clicked
+2025-01-25 01:42:44,285 - INFO: Form submitted
+2025-01-25 01:42:44,290 - INFO: Form submitted
+2025-01-25 01:42:44,292 - INFO: Form submitted
+2025-01-25 01:42:45,026 - INFO: Checkboxes clicked
+2025-01-25 01:42:45,029 - INFO: Checkboxes clicked
+2025-01-25 01:42:45,658 - INFO: Form submitted
+2025-01-25 01:42:45,660 - INFO: Form submitted
+2025-01-25 01:42:49,491 - INFO: Found verification code: 64155952
+2025-01-25 01:42:49,569 - INFO: Found verification code: 49151920
+2025-01-25 01:42:49,617 - INFO: Found verification code: 18458877
+2025-01-25 01:42:50,992 - INFO: Found verification code: 71382045
+2025-01-25 01:42:51,185 - INFO: Found verification code: 15631372
+2025-01-25 01:42:53,511 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:42:53,511 - INFO: Email verification attempted
+2025-01-25 01:42:53,550 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:42:53,550 - INFO: Email verification attempted
+2025-01-25 01:42:53,553 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:42:53,598 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:42:53,911 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:42:53,911 - INFO: Email verification attempted
+2025-01-25 01:42:53,952 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:42:54,828 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:42:54,828 - INFO: Email verification attempted
+2025-01-25 01:42:54,830 - WARNING: Error checking URL: 'Driver' object has no attribute 'get_current_url'
+2025-01-25 01:42:54,830 - INFO: Email verification attempted
+2025-01-25 01:42:54,879 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:42:54,884 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:46:06,227 - INFO: Websocket connected
+2025-01-25 01:46:06,318 - INFO: Websocket connected
+2025-01-25 01:46:06,332 - INFO: Websocket connected
+2025-01-25 01:46:08,688 - INFO: Websocket connected
+2025-01-25 01:46:08,838 - INFO: Websocket connected
+2025-01-25 01:46:10,119 - INFO: Websocket connected
+2025-01-25 01:46:10,168 - INFO: Websocket connected
+2025-01-25 01:46:13,580 - INFO: Websocket connected
+2025-01-25 01:46:13,848 - INFO: Websocket connected
+2025-01-25 01:46:13,981 - INFO: Websocket connected
+2025-01-25 01:46:15,264 - ERROR: Signup failed: 'Driver' object has no attribute 'wait_and_timeout'
+2025-01-25 01:46:15,424 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:46:15,558 - ERROR: Signup failed: 'Driver' object has no attribute 'wait_and_timeout'
+2025-01-25 01:46:15,683 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:46:15,811 - ERROR: Signup failed: 'Driver' object has no attribute 'wait_and_timeout'
+2025-01-25 01:46:15,831 - ERROR: Signup failed: 'Driver' object has no attribute 'wait_and_timeout'
+2025-01-25 01:46:15,875 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:46:15,884 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:46:16,303 - ERROR: Signup failed: 'Driver' object has no attribute 'wait_and_timeout'
+2025-01-25 01:46:16,340 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:48:34,352 - INFO: Websocket connected
+2025-01-25 01:48:34,483 - INFO: Websocket connected
+2025-01-25 01:48:34,541 - INFO: Websocket connected
+2025-01-25 01:48:34,599 - INFO: Websocket connected
+2025-01-25 01:48:34,658 - INFO: Websocket connected
+2025-01-25 01:48:40,112 - INFO: Websocket connected
+2025-01-25 01:48:42,256 - INFO: Websocket connected
+2025-01-25 01:48:43,220 - INFO: Websocket connected
+2025-01-25 01:48:43,592 - INFO: Websocket connected
+2025-01-25 01:48:43,776 - INFO: Websocket connected
+2025-01-25 01:48:48,006 - INFO: Signup page opened successfully
+2025-01-25 01:48:48,449 - INFO: Signup page opened successfully
+2025-01-25 01:48:48,930 - INFO: Signup page opened successfully
+2025-01-25 01:48:49,025 - INFO: Email 'kalindi63283@wih1.awesome47.com' entered
+2025-01-25 01:48:49,319 - INFO: Signup page opened successfully
+2025-01-25 01:48:49,923 - INFO: Email 'loriner2832@wih1.awesome47.com' entered
+2025-01-25 01:48:50,372 - INFO: Password entered
+2025-01-25 01:48:50,951 - INFO: Email 'cilla63704@wih1.awesome47.com' entered
+2025-01-25 01:48:51,255 - INFO: Password entered
+2025-01-25 01:48:51,399 - INFO: Email 'lucita58749@wih1.awesome47.com' entered
+2025-01-25 01:48:52,737 - INFO: Password entered
+2025-01-25 01:48:52,747 - INFO: Checkboxes clicked
+2025-01-25 01:48:53,265 - INFO: Password entered
+2025-01-25 01:48:53,644 - INFO: Form submitted
+2025-01-25 01:48:53,924 - INFO: Checkboxes clicked
+2025-01-25 01:48:54,219 - INFO: Form submitted
+2025-01-25 01:48:54,465 - INFO: Signup page opened successfully
+2025-01-25 01:48:55,211 - INFO: Checkboxes clicked
+2025-01-25 01:48:55,457 - INFO: Checkboxes clicked
+2025-01-25 01:48:55,785 - INFO: Form submitted
+2025-01-25 01:48:56,056 - INFO: Email 'linnell77055@wih1.awesome47.com' entered
+2025-01-25 01:48:56,192 - INFO: Form submitted
+2025-01-25 01:48:56,493 - INFO: Password entered
+2025-01-25 01:48:58,086 - INFO: Checkboxes clicked
+2025-01-25 01:48:58,350 - INFO: Found verification code: 80325680
+2025-01-25 01:48:58,498 - INFO: Form submitted
+2025-01-25 01:48:58,919 - INFO: Found verification code: 21222734
+2025-01-25 01:49:00,197 - INFO: Found verification code: 75145109
+2025-01-25 01:49:00,781 - INFO: Found verification code: 84554739
+2025-01-25 01:49:01,372 - INFO: Email verification attempted
+2025-01-25 01:49:01,513 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:49:01,833 - INFO: Email verification attempted
+2025-01-25 01:49:01,872 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:49:02,902 - INFO: Found verification code: 91247676
+2025-01-25 01:49:03,247 - INFO: Email verification attempted
+2025-01-25 01:49:03,338 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:49:03,562 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:49:03,681 - INFO: Email verification attempted
+2025-01-25 01:49:03,715 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:49:03,893 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:49:05,385 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:49:05,673 - INFO: Email verification attempted
+2025-01-25 01:49:05,684 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:49:05,706 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:49:05,745 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:49:05,933 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:50:04,759 - INFO: Websocket connected
+2025-01-25 01:50:05,982 - INFO: Websocket connected
+2025-01-25 01:50:06,001 - INFO: Websocket connected
+2025-01-25 01:50:06,226 - INFO: Websocket connected
+2025-01-25 01:50:08,896 - INFO: Websocket connected
+2025-01-25 01:50:09,221 - INFO: Websocket connected
+2025-01-25 01:50:12,540 - INFO: Websocket connected
+2025-01-25 01:50:12,898 - INFO: Websocket connected
+2025-01-25 01:50:14,244 - INFO: Websocket connected
+2025-01-25 01:50:16,031 - INFO: Websocket connected
+2025-01-25 01:50:18,935 - INFO: Signup page opened successfully
+2025-01-25 01:50:19,477 - INFO: Email 'lotte84517@wih1.awesome47.com' entered
+2025-01-25 01:50:19,541 - INFO: Signup page opened successfully
+2025-01-25 01:50:19,541 - INFO: Signup page opened successfully
+2025-01-25 01:50:20,492 - INFO: Signup page opened successfully
+2025-01-25 01:50:21,227 - INFO: Password entered
+2025-01-25 01:50:21,651 - INFO: Email 'tisha66853@wih1.awesome47.com' entered
+2025-01-25 01:50:21,945 - INFO: Email 'juliet43877@wih1.awesome47.com' entered
+2025-01-25 01:50:22,619 - INFO: Password entered
+2025-01-25 01:50:23,113 - INFO: Signup page opened successfully
+2025-01-25 01:50:23,600 - INFO: Password entered
+2025-01-25 01:50:23,743 - INFO: Checkboxes clicked
+2025-01-25 01:50:24,313 - INFO: Form submitted
+2025-01-25 01:50:24,467 - INFO: Email 'vanny21341@wih1.awesome47.com' entered
+2025-01-25 01:50:24,966 - INFO: Email 'willner71173@wih1.awesome47.com' entered
+2025-01-25 01:50:25,328 - INFO: Checkboxes clicked
+2025-01-25 01:50:25,858 - INFO: Password entered
+2025-01-25 01:50:26,158 - INFO: Form submitted
+2025-01-25 01:50:26,159 - INFO: Password entered
+2025-01-25 01:50:26,357 - INFO: Checkboxes clicked
+2025-01-25 01:50:26,958 - INFO: Form submitted
+2025-01-25 01:50:28,442 - INFO: Checkboxes clicked
+2025-01-25 01:50:28,448 - INFO: Checkboxes clicked
+2025-01-25 01:50:28,956 - INFO: Form submitted
+2025-01-25 01:50:28,957 - INFO: Form submitted
+2025-01-25 01:50:46,651 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:50:46,673 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:50:48,126 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:50:48,148 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:50:48,725 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:50:49,035 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:50:49,062 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:50:50,205 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:50:50,777 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:50:50,858 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:50:50,880 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:50:51,104 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:50:51,163 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:50:51,183 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:51:31,138 - INFO: Websocket connected
+2025-01-25 01:51:31,146 - INFO: Websocket connected
+2025-01-25 01:51:31,147 - INFO: Websocket connected
+2025-01-25 01:51:31,159 - INFO: Websocket connected
+2025-01-25 01:51:31,160 - INFO: Websocket connected
+2025-01-25 01:51:34,444 - INFO: Websocket connected
+2025-01-25 01:51:38,594 - INFO: Websocket connected
+2025-01-25 01:51:39,459 - INFO: Websocket connected
+2025-01-25 01:51:39,520 - INFO: Websocket connected
+2025-01-25 01:51:40,015 - INFO: Websocket connected
+2025-01-25 01:51:46,979 - INFO: Signup page opened successfully
+2025-01-25 01:51:47,510 - INFO: Email 'aline84843@wih1.awesome47.com' entered
+2025-01-25 01:51:47,963 - INFO: Password entered
+2025-01-25 01:51:48,111 - INFO: Signup page opened successfully
+2025-01-25 01:51:48,204 - INFO: Signup page opened successfully
+2025-01-25 01:51:48,532 - INFO: Signup page opened successfully
+2025-01-25 01:51:48,564 - INFO: Signup page opened successfully
+2025-01-25 01:51:49,503 - INFO: Email 'agathy51047@wih1.awesome47.com' entered
+2025-01-25 01:51:49,661 - INFO: Email 'masson94394@wih1.awesome47.com' entered
+2025-01-25 01:51:50,194 - INFO: Email 'salli16080@wih1.awesome47.com' entered
+2025-01-25 01:51:50,845 - INFO: Email 'hasheem77470@wih1.awesome47.com' entered
+2025-01-25 01:51:50,878 - INFO: Checkboxes clicked
+2025-01-25 01:51:51,160 - INFO: Password entered
+2025-01-25 01:51:51,742 - INFO: Password entered
+2025-01-25 01:51:52,344 - INFO: Form submitted
+2025-01-25 01:51:52,608 - INFO: Password entered
+2025-01-25 01:51:52,632 - INFO: Password entered
+2025-01-25 01:51:54,040 - INFO: Checkboxes clicked
+2025-01-25 01:51:54,568 - INFO: Checkboxes clicked
+2025-01-25 01:51:55,173 - INFO: Form submitted
+2025-01-25 01:51:55,244 - INFO: Checkboxes clicked
+2025-01-25 01:51:55,245 - INFO: Checkboxes clicked
+2025-01-25 01:51:55,835 - INFO: Form submitted
+2025-01-25 01:51:56,015 - INFO: Form submitted
+2025-01-25 01:51:56,016 - INFO: Form submitted
+2025-01-25 01:52:14,433 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:52:14,457 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:52:16,503 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:52:17,076 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:52:17,117 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:52:17,763 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:52:17,786 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:52:18,059 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:52:18,081 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:52:18,109 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:52:18,131 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:52:41,827 - INFO: Websocket connected
+2025-01-25 01:52:41,831 - INFO: Websocket connected
+2025-01-25 01:52:41,834 - INFO: Websocket connected
+2025-01-25 01:52:45,101 - INFO: Websocket connected
+2025-01-25 01:52:45,101 - INFO: Websocket connected
+2025-01-25 01:52:46,057 - INFO: Websocket connected
+2025-01-25 01:52:46,815 - INFO: Websocket connected
+2025-01-25 01:52:46,815 - INFO: Websocket connected
+2025-01-25 01:52:51,176 - INFO: Websocket connected
+2025-01-25 01:52:53,710 - INFO: Websocket connected
+2025-01-25 01:52:59,110 - INFO: Signup page opened successfully
+2025-01-25 01:52:59,419 - INFO: Signup page opened successfully
+2025-01-25 01:52:59,421 - INFO: Signup page opened successfully
+2025-01-25 01:52:59,949 - INFO: Signup page opened successfully
+2025-01-25 01:52:59,952 - INFO: Signup page opened successfully
+2025-01-25 01:53:00,396 - INFO: Email 'havstad2414@wih1.awesome47.com' entered
+2025-01-25 01:53:01,134 - INFO: Email 'brine24543@wih1.awesome47.com' entered
+2025-01-25 01:53:01,359 - INFO: Password entered
+2025-01-25 01:53:01,413 - INFO: Email 'fidellia72175@wih1.awesome47.com' entered
+2025-01-25 01:53:02,207 - INFO: Email 'jessie59631@wih1.awesome47.com' entered
+2025-01-25 01:53:02,611 - INFO: Email 'chere42321@wih1.awesome47.com' entered
+2025-01-25 01:53:02,899 - INFO: Password entered
+2025-01-25 01:53:03,172 - INFO: Password entered
+2025-01-25 01:53:03,969 - INFO: Password entered
+2025-01-25 01:53:04,510 - INFO: Password entered
+2025-01-25 01:53:04,638 - INFO: Checkboxes clicked
+2025-01-25 01:53:05,200 - INFO: Form submitted
+2025-01-25 01:53:05,717 - INFO: Checkboxes clicked
+2025-01-25 01:53:06,094 - INFO: Checkboxes clicked
+2025-01-25 01:53:06,637 - INFO: Form submitted
+2025-01-25 01:53:06,866 - INFO: Checkboxes clicked
+2025-01-25 01:53:07,047 - INFO: Form submitted
+2025-01-25 01:53:07,065 - INFO: Checkboxes clicked
+2025-01-25 01:53:07,553 - INFO: Found verification code: 71532208
+2025-01-25 01:53:07,568 - INFO: Form submitted
+2025-01-25 01:53:07,653 - INFO: Form submitted
+2025-01-25 01:53:10,387 - INFO: Email verification attempted
+2025-01-25 01:53:10,424 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:53:11,049 - INFO: Found verification code: 62384378
+2025-01-25 01:53:11,520 - INFO: Found verification code: 64928178
+2025-01-25 01:53:12,043 - INFO: Found verification code: 25088593
+2025-01-25 01:53:12,193 - INFO: Found verification code: 11591262
+2025-01-25 01:53:12,459 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:53:14,183 - INFO: Email verification attempted
+2025-01-25 01:53:14,227 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:53:14,544 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:53:15,155 - INFO: Email verification attempted
+2025-01-25 01:53:15,197 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:53:15,946 - INFO: Email verification attempted
+2025-01-25 01:53:15,948 - INFO: Email verification attempted
+2025-01-25 01:53:16,015 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:53:16,021 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:54:03,084 - INFO: Websocket connected
+2025-01-25 01:54:03,091 - INFO: Websocket connected
+2025-01-25 01:54:03,320 - INFO: Websocket connected
+2025-01-25 01:54:03,380 - INFO: Websocket connected
+2025-01-25 01:54:03,493 - INFO: Websocket connected
+2025-01-25 01:54:03,503 - INFO: Websocket connected
+2025-01-25 01:54:03,524 - INFO: Websocket connected
+2025-01-25 01:54:12,608 - INFO: Websocket connected
+2025-01-25 01:54:12,658 - INFO: Websocket connected
+2025-01-25 01:54:12,703 - INFO: Websocket connected
+2025-01-25 01:54:15,754 - INFO: Signup page opened successfully
+2025-01-25 01:54:16,015 - INFO: Signup page opened successfully
+2025-01-25 01:54:19,190 - INFO: Signup page opened successfully
+2025-01-25 01:54:19,359 - INFO: Signup page opened successfully
+2025-01-25 01:54:19,509 - INFO: Signup page opened successfully
+2025-01-25 01:54:20,155 - INFO: Email 'rosabelle9054@wih1.awesome47.com' entered
+2025-01-25 01:54:20,478 - INFO: Email 'cohdwell14730@wih1.awesome47.com' entered
+2025-01-25 01:54:21,276 - INFO: Password entered
+2025-01-25 01:54:21,422 - INFO: Email 'benioff2188@wih1.awesome47.com' entered
+2025-01-25 01:54:21,560 - INFO: Password entered
+2025-01-25 01:54:22,236 - INFO: Email 'sheree44605@wih1.awesome47.com' entered
+2025-01-25 01:54:22,502 - INFO: Email 'fairbanks11351@wih1.awesome47.com' entered
+2025-01-25 01:54:23,750 - INFO: Password entered
+2025-01-25 01:54:23,805 - INFO: Checkboxes clicked
+2025-01-25 01:54:24,371 - INFO: Checkboxes clicked
+2025-01-25 01:54:24,417 - INFO: Password entered
+2025-01-25 01:54:24,424 - INFO: Password entered
+2025-01-25 01:54:25,105 - INFO: Form submitted
+2025-01-25 01:54:25,669 - INFO: Form submitted
+2025-01-25 01:54:26,155 - INFO: Checkboxes clicked
+2025-01-25 01:54:26,575 - INFO: Checkboxes clicked
+2025-01-25 01:54:26,576 - INFO: Checkboxes clicked
+2025-01-25 01:54:27,079 - INFO: Form submitted
+2025-01-25 01:54:27,227 - INFO: Form submitted
+2025-01-25 01:54:27,229 - INFO: Form submitted
+2025-01-25 01:54:29,266 - INFO: Found verification code: 17261713
+2025-01-25 01:54:29,435 - INFO: Found verification code: 57155819
+2025-01-25 01:54:29,436 - INFO: Found verification code: 23133356
+2025-01-25 01:54:29,853 - INFO: Found verification code: 96829640
+2025-01-25 01:54:30,403 - INFO: Found verification code: 92201780
+2025-01-25 01:54:33,986 - INFO: Email verification attempted
+2025-01-25 01:54:34,125 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:54:34,412 - INFO: Email verification attempted
+2025-01-25 01:54:34,473 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:54:34,753 - INFO: Email verification attempted
+2025-01-25 01:54:34,795 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:54:35,350 - INFO: Email verification attempted
+2025-01-25 01:54:35,394 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:54:36,202 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:54:36,348 - INFO: Email verification attempted
+2025-01-25 01:54:36,397 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:54:36,530 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:55:20,601 - INFO: Websocket connected
+2025-01-25 01:55:20,608 - INFO: Websocket connected
+2025-01-25 01:55:20,619 - INFO: Websocket connected
+2025-01-25 01:55:20,623 - INFO: Websocket connected
+2025-01-25 01:55:20,724 - INFO: Websocket connected
+2025-01-25 01:55:20,726 - INFO: Websocket connected
+2025-01-25 01:55:20,868 - INFO: Websocket connected
+2025-01-25 01:55:20,869 - INFO: Websocket connected
+2025-01-25 01:55:20,870 - INFO: Websocket connected
+2025-01-25 01:55:20,871 - INFO: Websocket connected
+2025-01-25 01:55:31,845 - INFO: Websocket connected
+2025-01-25 01:55:32,527 - INFO: Websocket connected
+2025-01-25 01:55:32,528 - INFO: Websocket connected
+2025-01-25 01:55:33,758 - INFO: Websocket connected
+2025-01-25 01:55:34,897 - INFO: Websocket connected
+2025-01-25 01:55:34,938 - INFO: Websocket connected
+2025-01-25 01:55:35,003 - INFO: Websocket connected
+2025-01-25 01:55:35,244 - INFO: Websocket connected
+2025-01-25 01:55:36,526 - INFO: Websocket connected
+2025-01-25 01:55:36,940 - INFO: Websocket connected
+2025-01-25 01:55:53,179 - INFO: Signup page opened successfully
+2025-01-25 01:55:53,712 - INFO: Signup page opened successfully
+2025-01-25 01:55:53,775 - INFO: Signup page opened successfully
+2025-01-25 01:55:53,867 - INFO: Signup page opened successfully
+2025-01-25 01:55:53,927 - INFO: Signup page opened successfully
+2025-01-25 01:55:54,036 - INFO: Signup page opened successfully
+2025-01-25 01:55:54,255 - INFO: Signup page opened successfully
+2025-01-25 01:55:54,301 - INFO: Websocket connected
+2025-01-25 01:55:54,758 - INFO: Signup page opened successfully
+2025-01-25 01:55:56,035 - ERROR: Failed to open signup page: No node found at given location [code: -32000]
+2025-01-25 01:55:56,082 - ERROR: Signup process failed: No node found at given location [code: -32000]
+2025-01-25 01:55:56,130 - INFO: Signup page opened successfully
+2025-01-25 01:55:56,803 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:55:57,214 - INFO: Email 'nich51167@wih1.awesome47.com' entered
+2025-01-25 01:55:57,373 - INFO: Email 'esther2526@wih1.awesome47.com' entered
+2025-01-25 01:55:57,707 - INFO: Email 'donela24714@wih1.awesome47.com' entered
+2025-01-25 01:55:57,723 - INFO: Email 'hannis17072@wih1.awesome47.com' entered
+2025-01-25 01:55:58,130 - INFO: Email 'ingra32009@wih1.awesome47.com' entered
+2025-01-25 01:55:58,214 - INFO: Email 'allard13811@wih1.awesome47.com' entered
+2025-01-25 01:55:58,845 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:55:58,854 - INFO: Email 'kazim73878@wih1.awesome47.com' entered
+2025-01-25 01:55:59,638 - INFO: Email 'dyna72340@wih1.awesome47.com' entered
+2025-01-25 01:55:59,795 - INFO: Email 'corkhill96111@wih1.awesome47.com' entered
+2025-01-25 01:56:00,456 - INFO: Password entered
+2025-01-25 01:56:00,902 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:01,491 - INFO: Password entered
+2025-01-25 01:56:01,559 - INFO: Password entered
+2025-01-25 01:56:01,778 - INFO: Password entered
+2025-01-25 01:56:01,780 - INFO: Password entered
+2025-01-25 01:56:02,166 - INFO: Password entered
+2025-01-25 01:56:02,652 - INFO: Password entered
+2025-01-25 01:56:03,016 - INFO: Password entered
+2025-01-25 01:56:03,016 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:03,900 - INFO: Password entered
+2025-01-25 01:56:05,268 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:05,565 - INFO: Checkboxes clicked
+2025-01-25 01:56:05,598 - INFO: Checkboxes clicked
+2025-01-25 01:56:06,706 - INFO: Checkboxes clicked
+2025-01-25 01:56:06,950 - INFO: Checkboxes clicked
+2025-01-25 01:56:06,951 - INFO: Checkboxes clicked
+2025-01-25 01:56:07,107 - INFO: Checkboxes clicked
+2025-01-25 01:56:07,395 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:07,478 - INFO: Checkboxes clicked
+2025-01-25 01:56:07,882 - INFO: Form submitted
+2025-01-25 01:56:08,073 - INFO: Checkboxes clicked
+2025-01-25 01:56:08,288 - INFO: Form submitted
+2025-01-25 01:56:08,996 - INFO: Form submitted
+2025-01-25 01:56:09,312 - INFO: Form submitted
+2025-01-25 01:56:09,326 - INFO: Checkboxes clicked
+2025-01-25 01:56:09,337 - INFO: Form submitted
+2025-01-25 01:56:09,342 - INFO: Form submitted
+2025-01-25 01:56:09,448 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:09,481 - INFO: Form submitted
+2025-01-25 01:56:09,725 - INFO: Form submitted
+2025-01-25 01:56:09,903 - INFO: Form submitted
+2025-01-25 01:56:10,108 - INFO: Found verification code: 61159704
+2025-01-25 01:56:10,614 - INFO: Found verification code: 43986580
+2025-01-25 01:56:11,562 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:13,664 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:13,673 - INFO: Found verification code: 26035719
+2025-01-25 01:56:13,987 - INFO: Email verification attempted
+2025-01-25 01:56:14,005 - INFO: Found verification code: 51883284
+2025-01-25 01:56:14,095 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:14,110 - INFO: Found verification code: 60595458
+2025-01-25 01:56:14,158 - INFO: Email verification attempted
+2025-01-25 01:56:14,344 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:15,724 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:16,239 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:16,439 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:17,560 - INFO: Email verification attempted
+2025-01-25 01:56:17,597 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:17,819 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:18,028 - INFO: Email verification attempted
+2025-01-25 01:56:18,029 - INFO: Email verification attempted
+2025-01-25 01:56:18,085 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:18,091 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:18,285 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:18,486 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:19,635 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:19,870 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:20,134 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:20,134 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:20,334 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:20,534 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:21,679 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:21,910 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:22,174 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:22,174 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:22,374 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:22,575 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:23,721 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:23,955 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:24,218 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:24,218 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:24,402 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:24,618 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:25,755 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:25,986 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:26,251 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:26,251 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:26,438 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:26,655 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:27,806 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:28,039 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:28,304 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:28,304 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:28,477 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:28,707 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:29,843 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:30,078 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:30,330 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:30,330 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:30,501 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:30,720 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:31,569 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:56:31,608 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:31,745 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:56:31,782 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:31,874 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 01:56:31,971 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:56:31,997 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:32,000 - ERROR: Failed to verify email after maximum attempts
+2025-01-25 01:56:32,035 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 01:56:32,098 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 02:37:44,968 - INFO: Websocket connected
+2025-01-25 02:37:45,037 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:37:56,369 - INFO: Websocket connected
+2025-01-25 02:37:56,418 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:37:57,752 - INFO: Websocket connected
+2025-01-25 02:37:57,812 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:38:08,875 - INFO: Websocket connected
+2025-01-25 02:38:08,923 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:39:16,519 - INFO: Websocket connected
+2025-01-25 02:39:16,931 - INFO: Websocket connected
+2025-01-25 02:39:16,931 - ERROR: 'NoneType' object has no attribute 'sock' - goodbye
+2025-01-25 02:39:16,931 - INFO: Websocket connected
+2025-01-25 02:40:13,107 - INFO: Websocket connected
+2025-01-25 02:40:13,198 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:40:37,937 - INFO: Websocket connected
+2025-01-25 02:40:37,987 - INFO: Websocket connected
+2025-01-25 02:40:38,111 - INFO: Websocket connected
+2025-01-25 02:40:38,111 - INFO: Websocket connected
+2025-01-25 02:40:38,118 - INFO: Websocket connected
+2025-01-25 02:40:45,591 - INFO: Websocket connected
+2025-01-25 02:40:46,242 - INFO: Websocket connected
+2025-01-25 02:40:48,217 - INFO: Websocket connected
+2025-01-25 02:40:48,811 - INFO: Websocket connected
+2025-01-25 02:40:49,455 - INFO: Websocket connected
+2025-01-25 02:40:57,950 - INFO: Signup page opened successfully
+2025-01-25 02:40:58,635 - INFO: Signup page opened successfully
+2025-01-25 02:40:59,009 - INFO: Signup page opened successfully
+2025-01-25 02:40:59,102 - INFO: Signup page opened successfully
+2025-01-25 02:40:59,382 - INFO: Signup page opened successfully
+2025-01-25 02:41:00,771 - INFO: Email 'constancia9694@wih1.awesome47.com' entered
+2025-01-25 02:41:01,062 - INFO: Email 'papke89545@wih1.awesome47.com' entered
+2025-01-25 02:41:01,249 - INFO: Email 'obla8825@wih1.awesome47.com' entered
+2025-01-25 02:41:01,425 - INFO: Email 'iong98893@wih1.awesome47.com' entered
+2025-01-25 02:41:01,972 - INFO: Email 'frances20140@wih1.awesome47.com' entered
+2025-01-25 02:41:02,990 - INFO: Password entered
+2025-01-25 02:41:03,144 - INFO: Password entered
+2025-01-25 02:41:03,418 - INFO: Password entered
+2025-01-25 02:41:03,861 - INFO: Password entered
+2025-01-25 02:41:03,908 - INFO: Password entered
+2025-01-25 02:41:05,618 - INFO: Checkboxes clicked
+2025-01-25 02:41:06,101 - INFO: Checkboxes clicked
+2025-01-25 02:41:06,432 - INFO: Form submitted
+2025-01-25 02:41:06,584 - INFO: Checkboxes clicked
+2025-01-25 02:41:06,585 - INFO: Checkboxes clicked
+2025-01-25 02:41:06,724 - INFO: Checkboxes clicked
+2025-01-25 02:41:07,631 - INFO: Form submitted
+2025-01-25 02:41:07,697 - INFO: Form submitted
+2025-01-25 02:41:07,701 - INFO: Form submitted
+2025-01-25 02:41:07,704 - INFO: Form submitted
+2025-01-25 02:41:09,875 - INFO: Found verification code: 87418807
+2025-01-25 02:41:10,157 - INFO: Found verification code: 81628870
+2025-01-25 02:41:11,021 - INFO: Found verification code: 80903131
+2025-01-25 02:41:12,214 - INFO: Found verification code: 79171685
+2025-01-25 02:41:12,354 - INFO: Found verification code: 23105636
+2025-01-25 02:41:13,181 - INFO: Email verification attempted
+2025-01-25 02:41:13,340 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:41:13,582 - INFO: Email verification attempted
+2025-01-25 02:41:13,721 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:41:14,043 - INFO: Email verification attempted
+2025-01-25 02:41:14,076 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:41:15,378 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 02:41:15,805 - INFO: Email verification attempted
+2025-01-25 02:41:15,809 - INFO: Email verification attempted
+2025-01-25 02:41:15,813 - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-01-25 02:41:15,866 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:41:15,885 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 02:41:15,886 - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-01-25 03:02:08,769 - INFO: Websocket connected
+2025-01-25 03:02:08,862 - INFO: Websocket connected
+2025-01-25 03:02:11,203 - INFO: Websocket connected
+2025-01-25 03:02:11,607 - INFO: Websocket connected
+2025-01-25 03:02:12,071 - INFO: Websocket connected
+2025-01-25 03:02:12,864 - INFO: Websocket connected
+2025-01-25 03:02:13,883 - INFO: Websocket connected
+2025-01-25 03:02:15,302 - INFO: Websocket connected
+2025-01-25 03:02:20,245 - INFO: Signup page opened successfully
+2025-01-25 03:02:21,267 - INFO: Signup page opened successfully
+2025-01-25 03:02:21,517 - INFO: Signup page opened successfully
+2025-01-25 03:02:21,576 - INFO: Websocket connected
+2025-01-25 03:02:21,744 - INFO: Websocket connected
+2025-01-25 03:03:08,332 - INFO: Websocket connected
+2025-01-25 03:03:08,404 - INFO: Websocket connected
+2025-01-25 03:03:08,410 - INFO: Websocket connected
+2025-01-25 03:03:08,426 - INFO: Websocket connected
+2025-01-25 03:03:08,504 - INFO: Websocket connected
+2025-01-25 03:03:15,381 - INFO: Websocket connected
+2025-01-25 03:03:18,907 - INFO: Websocket connected
+2025-01-25 03:03:19,335 - INFO: Websocket connected
+2025-01-25 03:03:20,074 - INFO: Websocket connected
+2025-01-25 03:03:21,790 - INFO: Websocket connected
+2025-01-25 03:03:24,792 - INFO: Signup page opened successfully
+2025-01-25 03:03:25,137 - INFO: Signup page opened successfully
+2025-01-25 03:03:25,325 - INFO: Signup page opened successfully
+2025-01-25 03:03:26,126 - INFO: Signup page opened successfully
+2025-01-25 03:03:26,899 - INFO: Signup page opened successfully
+2025-01-25 03:03:29,220 - ERROR: Error during form submission: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:29,220 - ERROR: Signup process failed: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:29,247 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 03:03:29,485 - ERROR: Error during form submission: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:29,485 - ERROR: Signup process failed: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:29,510 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 03:03:29,563 - ERROR: Error during form submission: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:29,564 - ERROR: Signup process failed: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:29,593 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 03:03:30,146 - ERROR: Error during form submission: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:30,146 - ERROR: Signup process failed: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:30,168 - ERROR: Connection to remote host was lost. - goodbye
+2025-01-25 03:03:30,967 - ERROR: Error during form submission: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:30,967 - ERROR: Signup process failed: Cannot find element with selector: '.sl-form-control.theme-dark.w-full'.
+2025-01-25 03:03:30,992 - ERROR: Connection to remote host was lost. - goodbye
